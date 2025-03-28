@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=VSRathod&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VSRathod&theme=highcontrast&hide_border=false" alt="readme stats" />
+<!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=VSRathod&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VSRathod&theme=highcontrast&hide_border=false" alt="readme stats" /> -->
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRathod&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
